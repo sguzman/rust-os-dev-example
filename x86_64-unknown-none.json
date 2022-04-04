@@ -5,9 +5,6 @@
     "target-endian": "little",
     "target-pointer-width": "64",
     "target-c-int-width": "32",
-    "os": "linux",
-    "executables": true,
-    "linker-flavor": "gcc",
-    "pre-link-args": ["-m64"],
-    "morestack": false
+    "os": "none",
+    "executables": true
 }
